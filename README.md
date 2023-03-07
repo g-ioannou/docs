@@ -8,4 +8,4 @@
        -  Stacks
 		- Django Backend
 			1. [[Configuration]]
-			2. [[Nginx Server Block]]
+			2. [[Deploying a website/Stacks/Django Backend/Nginx Server Block]]

@@ -66,7 +66,7 @@ server {
 ```
 
 Blocks
-- [[Nginx Server Block | Django block]]
+- [[Deploying a website/Stacks/Django Backend/Nginx Server Block | Django block]]
 - SPAs
 
 Now a *symlink* in `/etc/nginx/sites-enabled/` must be created, pointing to the new configuration file:

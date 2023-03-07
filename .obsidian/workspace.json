@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Deploying a website/Stacks/Django Backend/Nginx Server Block.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0975451b64fc55ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deploying a website/Nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Deploying a website/Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Deploying a website/Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Deploying a website/Nginx.md"
               }
             }
           }
@@ -154,25 +167,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21c37692c71b5c56",
+  "active": "0975451b64fc55ca",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Deploying a website/Configuring SSL.md",
+    "Deploying a website/Stacks/SSR frameworks/Sveltekit.md",
+    "Deploying a website/Stacks/SSR frameworks/Solid Start.md",
+    "Deploying a website/Stacks/SSR frameworks/Next.md",
+    "Deploying a website/Stacks/SPAs/Nginx Server Block.md",
     "Deploying a website/Stacks/Django Backend/Nginx Server Block.md",
-    "README.md",
     "Deploying a website/Stacks/Django Backend/Configuration.md",
     "Deploying a website/Nginx.md",
-    "Deploying a website/Configuring SSL.md",
+    "README.md",
+    "Untitled.canvas",
     "Server configuration/Adding a user and configuring SSH.md",
     "Server configuration.md",
     "Server configuration",
     "Deploying a website/Stacks/SPAs.md",
     "Deploying a website/Stacks/SPAs",
     "Deploying a website/Stacks/SSR frameworks/README.md",
-    "Deploying a website/Stacks/SSR frameworks/Solid Start.md",
-    "Deploying a website/Stacks/SSR frameworks/Sveltekit.md",
     "Deploying a website/Stacks/Django Backend",
     "Databases",
-    "Deploying a website/Stacks/SSR frameworks/Next.md",
     "Deploying a website/Stacks/SSR frameworks",
     "Deploying a website/Stacks",
     "Databases/Configuring Postgres.md",

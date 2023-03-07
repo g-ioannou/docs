@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "8fafeaf4612571c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c1ddc0a3cabf19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21c37692c71b5c56",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c41819d12302be7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7be450a2f6e8767b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38d164557b6255a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b1cca8e40cd05e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16915a28cff4dddb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5086555480957
+  },
+  "right": {
+    "id": "82d82267e79f1c23",
+    "type": "split",
+    "children": [
+      {
+        "id": "3423fabcfbe7382e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27b086f35eec24da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6e0599890811e5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b37301fdd65cbe7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ddfffad6016778e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "38d164557b6255a1",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Deploying a website/Stacks/Django Backend/Nginx Server Block.md",
+    "README.md",
+    "Deploying a website/Stacks/Django Backend/Configuration.md",
+    "Deploying a website/Nginx.md",
+    "Deploying a website/Configuring SSL.md",
+    "Server configuration/Adding a user and configuring SSH.md",
+    "Server configuration.md",
+    "Server configuration",
+    "Deploying a website/Stacks/SPAs.md",
+    "Deploying a website/Stacks/SPAs",
+    "Deploying a website/Stacks/SSR frameworks/README.md",
+    "Deploying a website/Stacks/SSR frameworks/Solid Start.md",
+    "Deploying a website/Stacks/SSR frameworks/Sveltekit.md",
+    "Deploying a website/Stacks/Django Backend",
+    "Databases",
+    "Deploying a website/Stacks/SSR frameworks/Next.md",
+    "Deploying a website/Stacks/SSR frameworks",
+    "Deploying a website/Stacks",
+    "Databases/Configuring Postgres.md",
+    "Configuring a new server/Untitled.md",
+    "Configuring a new server",
+    "test.md",
+    "Deploying a website"
+  ]
+}
